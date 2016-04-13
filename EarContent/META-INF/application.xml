@@ -7,7 +7,7 @@
   <module>
     <web>
       <web-uri>soa-inventoryportal-war.war</web-uri>
-      <context-root>soa-inventoryportal-war</context-root>
+      <context-root>qabox/soa</context-root>
     </web>
   </module>
 </application>
